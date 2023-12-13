@@ -2,3 +2,6 @@
 -- BERT,Fasttext-transferlearning.
 -- LSTM with onehot encoding layer - deep learning.
 -- combined 5 main classification algorithms in machine learning with spacy document vectorization method.
+
+
+please run the fules using gpu. and replace the file locations
