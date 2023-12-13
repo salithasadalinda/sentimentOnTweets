@@ -4,4 +4,4 @@
 -- combined 5 main classification algorithms in machine learning with spacy document vectorization method.
 
 
-please run the files using gpu. and replace the file locations
+please run the files using gpu.
